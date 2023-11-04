@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+}
+h1:hover{
+    color:blue;
+    background-color: blueviolet;
+}
